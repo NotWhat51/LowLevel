@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b44db3dc-2b22-472a-80f0-059dff263381" name="Default Changelist" comment="lab1 v2" />
+    <list default="true" id="b44db3dc-2b22-472a-80f0-059dff263381" name="Default Changelist" comment="lab1 v2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -34,10 +45,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,33 +88,10 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab1 v1" />
     <MESSAGE value="lab1 v2" />
     <option name="LAST_COMMIT_MESSAGE" value="lab1 v2" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="409" y="114" key="#Project_Structure" timestamp="1632334566031">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="409" y="114" key="#Project_Structure/0.0.1858.1080@0.0.1858.1080" timestamp="1632334566031" />
-    <state x="709" y="282" key="FileChooserDialogImpl" timestamp="1632335558916">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="709" y="282" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1632335558916" />
-    <state x="807" y="438" key="Github.ShareDialog" timestamp="1632336127114">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="807" y="438" key="Github.ShareDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1632336127114" />
-    <state x="744" y="245" key="Github.UntrackedFilesDialog" timestamp="1632334597281">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="744" y="245" key="Github.UntrackedFilesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1632334597281" />
-    <state x="521" y="273" key="Vcs.Push.Dialog.v2" timestamp="1632413302884">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="521" y="273" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1632413302884" />
   </component>
 </project>
