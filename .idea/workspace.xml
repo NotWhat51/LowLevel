@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b44db3dc-2b22-472a-80f0-059dff263381" name="Default Changelist" comment="lab1 v2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b44db3dc-2b22-472a-80f0-059dff263381" name="Default Changelist" comment="lab3 v2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -29,6 +28,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -75,7 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632413295664</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lab3 v1">
+      <created>1638388223856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638388223856</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lab3 v2">
+      <created>1638388273253</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638388273253</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +108,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab1 v1" />
     <MESSAGE value="lab1 v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab1 v2" />
+    <MESSAGE value="lab3 v1" />
+    <MESSAGE value="lab3 v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab3 v2" />
   </component>
 </project>
